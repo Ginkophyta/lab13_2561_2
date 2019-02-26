@@ -21,3 +21,15 @@ int main(){
 }
 
 // Write definition of inputMatrix(),matrixMultiply() and showMatrix() here
+void inputMatrix(double A[][N]){
+	for(int i=0;i<N;i++)
+	cout<<"Row "<<i+1<<": ";
+}
+
+void findLocalMax(const double A[][N], bool B[][N]){
+	
+}
+
+void showMatrix(const bool B[][N]){
+	
+}
